@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "audio-to-text-cli"
-version = "1.0.0"
+version = "1.0.1"
 description = "音频下载 + 语音转文字 CLI 工具，支持 B站/YouTube 等视频平台及直链音频，中文简繁体可选"
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
